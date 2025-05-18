@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+langchain
+pydantic
+sqlalchemy
+python-dotenv
+pytest
+psycopg2-binary
+shopifyapi
+pydantic-ai
+pinecone-client
+gunicorn
+paypalrestsdk
+langchain-community
